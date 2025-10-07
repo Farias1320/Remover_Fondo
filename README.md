@@ -38,16 +38,6 @@ python init.py
 
 3. El resultado se guardará como `output.png` en el mismo directorio.
 
-## Ejemplo de código
-
-```python
-from rembg import remove
-from PIL import Image
-
-remover_fondo = remove(Image.open("input.png")) # Remueve el fondo
-remover_fondo.save("output.png") # Guarda la imagen sin fondo
-```
-
 ## Autor
 
 - [Cristopher](https://github.com/Farias1320)
