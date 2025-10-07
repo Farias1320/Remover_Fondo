@@ -1,4 +1,4 @@
-# Remover_Fondo
+# Remover Fondos de Imagen
 
 Remover_Fondo es un script sencillo en Python que elimina el fondo de una imagen utilizando la librería [rembg](https://github.com/danielgatis/rembg) y la biblioteca Pillow (PIL).
 
